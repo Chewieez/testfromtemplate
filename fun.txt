@@ -1,0 +1,8 @@
+“Hello world!” - said everyone, always
+
+and now I have said "Hello World" through a forked github project -Greg
+
+Here is some more text for a second attempt - greg
+
+
+New text to see how using a forked and cloned repo as a template works.
